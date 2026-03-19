@@ -1,2 +1,3 @@
-# prime-quiz-platform-61uu
-Automated issue comment bot repository
+# Prime Quiz Platform 61Uu
+
+Automated issue comment bot repository.
